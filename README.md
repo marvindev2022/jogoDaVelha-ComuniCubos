@@ -2,7 +2,7 @@
 
 Este é um simples jogo da velha (Tic Tac Toe) desenvolvido em HTML, CSS e JavaScript. O objetivo deste repositório é fornecer um exemplo de como criar o jogo da velha e compartilhar o código-fonte para fins de aprendizado e diversão.
 
-![tic-tac-toy](./screenshot.png)
+![tic-tac-toy](./assets/screenshot.png)
 
 ## Como Jogar
 
