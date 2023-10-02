@@ -46,8 +46,5 @@ Contribuições são bem-vindas! Se você encontrar maneiras de melhorar o jogo 
 
 ## Autor
 
-Este jogo da velha foi criado por [Seu Nome] como um exemplo de projeto simples em HTML, CSS e JavaScript.
+Este jogo da velha foi criado por Marcus Roza como um exemplo de projeto simples em HTML, CSS e JavaScript.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
