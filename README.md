@@ -51,4 +51,3 @@ Este jogo da velha foi criado por [Seu Nome] como um exemplo de projeto simples 
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-# jogoDaVelha-ComuniCubos
